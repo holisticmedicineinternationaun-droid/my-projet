@@ -63,7 +63,7 @@ export const COURSES_LIST: Course[] = [
     image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5TIkGsLczSVVwQ8iVquVFAcdMUcE6A4AG6nVPAPDmj8ymvL_lIph7DIk6NTB08T-tysv8jiIX-M4RyUT-pp9IHLDZB5Ko2e3G7J1wDTp7VdpdGE_nV7MzRD3jiZoQ5E7l1lYSX-6FoQu5ojFh7PS0-DTjnPY-XHfJOcLt4_EZeCeCuZ_tja5eGw7GKlY/s320/photo_2026-02-18_20-33-21.jpg',
     link: '/course/diag-chemical',
     description: 'اكتشاف العلوم الحديثة للتشخيص الطبي واستخدام الكيمياء في تطوير العلاجات المبتكرة.',
-    duration: '4 أشهر',
+    duration: '6 أشهر',
     syllabus: [
       'مفاهيم التشخيص الطبي والكيمياء',
       'كيمياء الدماغ وآليات عمله',
