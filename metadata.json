@@ -1,0 +1,9 @@
+
+{
+  "name": "الجامعة العالمية الافتراضية للطب الشمولي",
+  "description": "A modern, responsive academic portal for the International Virtual University for Holistic Medicine, featuring news, faculty details, and an AI-powered academic assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
